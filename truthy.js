@@ -6,5 +6,5 @@ if(!num){
 }
 
 if(!!num){
-    console.log('truthy for !!')
+    console.log('truthy for !')
 }
